@@ -1,0 +1,10 @@
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\bin\Debug\AlcoMarket.dacpac
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\bin\Debug\AlcoMarket.dll
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\bin\Debug\AlcoMarket.pdb
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\AlcoMarket.sqlprojAssemblyReference.cache
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\AlcoMarket.dll
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\AlcoMarket.pdb
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\Model.xml
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\refactor.xml
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\postdeploy.sql
+C:\Users\marym\source\repos\AlcoMarket\AlcoMarket\obj\Debug\predeploy.sql
